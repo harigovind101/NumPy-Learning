@@ -4,7 +4,7 @@
 
 ## Progress
 
-### Day 1 - NumPy Array Basics ✅
+###  NumPy Array Basics ✅
 
 Topics learned:
 
@@ -18,7 +18,7 @@ Topics learned:
 - Using `shape[0]` and `shape[1]`
 - Understanding samples and features in AI/ML datasets
 
-### Day 2 - Creating NumPy Arrays ✅
+###  Creating NumPy Arrays ✅
 
 Topics learned:
 
